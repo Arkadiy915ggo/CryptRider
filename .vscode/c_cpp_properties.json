@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "CryptRiderEditor Editor Win64 Development (CryptRider)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}

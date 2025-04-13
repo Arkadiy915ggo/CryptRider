@@ -1,0 +1,106 @@
+[
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRider.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRider.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRider.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRiderCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRiderCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRiderGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRiderGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRiderProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\CryptRiderProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\Source\\CryptRider\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\rab\\UE\\Projects\\CourseCryptRider\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.255.rsp"
+		],
+		"directory": "D:\\rab\\UE\\UE_5.1\\Engine\\Source"
+	}
+]
